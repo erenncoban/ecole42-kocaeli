@@ -1,0 +1,5 @@
+Credentials cache: API:59764F3C-1665-4612-A7CC-8BBCBFF04F62
+        Principal: ercoban@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 22 22:03:33 2021  Nov 23 08:03:23 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
