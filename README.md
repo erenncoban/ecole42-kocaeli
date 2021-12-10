@@ -1,2 +1,5 @@
 # ecole42-kocaeli
 Ecole42 Kocaeli Havuz Dönemi Reposity
+
+BU ALANDA HAVUZ DÖNEMİ HAKKINDA BİLGİLER VE KİŞİSEL GÖRÜŞLERİMİ İLETECEĞİM. KİŞİSEL GÖRÜŞLERİM YALNIZCA BANA AİT DÜŞÜNCELERİ İÇERMEKTEDİR.
+
